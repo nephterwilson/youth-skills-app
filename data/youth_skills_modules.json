@@ -134,7 +134,7 @@
 },
 
    {
-  "title": "Introduction to Tailoring",
+  "title": "Introd to Tailoring",
   "description": "Learn the basics of measuring, cutting, sewing, and finishing clothes. This module helps you develop the skills needed to start tailoring at home or professionally, with step-by-step guidance from measurements to completed garments.",
   "lessons": [
     {
@@ -311,6 +311,254 @@
     }
   ]
 },
+
+{
+  "title": "Computer Skills",
+  "description": "Learn the essential computer skills needed for work, school, and daily tasks. This module covers how to use Microsoft Office tools (Word, Excel, PowerPoint), send emails, and store files using Google Drive.",
+  "lessons": [
+    {
+      "title": "Introduction to Computers and Typing",
+      "content": "Before using Microsoft Office, it's important to know how to use a computer. Learn how to turn it on, use a keyboard and mouse, and open basic applications.",
+      "key_points": [
+        "Use the power button to turn the computer on/off properly.",
+        "Practice typing with both hands using the keyboard.",
+        "Use a mouse to click, drag, and scroll.",
+        "Understand what a desktop, folder, and file are."
+      ],
+      "local_example": "Helping a small shopkeeper type and print price lists using a desktop computer."
+    },
+    {
+      "title": "Using Microsoft Word",
+      "content": "Microsoft Word is used for typing letters, creating documents, and making reports. It's one of the most common computer tools.",
+      "key_points": [
+        "Open Word, type a letter, and save the file.",
+        "Use basic formatting tools: bold, underline, font size, and color.",
+        "Insert tables, pictures, and bullet points.",
+        "Save and print documents when ready."
+      ],
+      "local_example": "Typing a business letter or a CV at a local internet café."
+    },
+    {
+      "title": "Using Microsoft Excel",
+      "content": "Microsoft Excel is used to record and calculate data using tables. It helps manage money, stock, or lists.",
+      "key_points": [
+        "Understand what a spreadsheet is (rows and columns).",
+        "Enter numbers and text into cells.",
+        "Use formulas like =SUM(A1:A5) to calculate totals.",
+        "Create simple charts to show information clearly."
+      ],
+      "local_example": "Tracking a small business's sales using Excel tables and totals."
+    },
+    {
+      "title": "Using Microsoft PowerPoint",
+      "content": "PowerPoint is used for creating presentations to teach or explain something with slides.",
+      "key_points": [
+        "Create a new slide presentation.",
+        "Add text, images, and bullet points to slides.",
+        "Use slide transitions and animations.",
+        "Practice presenting using full-screen slideshow mode."
+      ],
+      "local_example": "Preparing a farming tips presentation for a youth training event."
+    },
+    {
+      "title": "Creating and Sending Emails",
+      "content": "Email is a way to send messages and documents using the internet. Gmail and Yahoo Mail are common services.",
+      "key_points": [
+        "Create a free email account on Gmail or Yahoo.",
+        "Use To, CC, Subject, and Message fields correctly.",
+        "Attach documents or photos to an email.",
+        "Check your inbox and reply to messages."
+      ],
+      "local_example": "Sending a job application with a CV and cover letter using email."
+    },
+    {
+      "title": "Using Google Drive for Cloud Storage",
+      "content": "Google Drive allows you to save files online. This means your work is safe and accessible from any device.",
+      "key_points": [
+        "Login with your Google account to access Google Drive.",
+        "Upload and download files from the cloud.",
+        "Organize files into folders.",
+        "Share documents with others using links or email."
+      ],
+      "local_example": "Storing photos and important certificates in Google Drive for backup."
+    },
+    {
+      "title": "Safety and Good Habits in Computer Use",
+      "content": "Using computers safely protects your work and your health. Good habits make you more productive.",
+      "key_points": [
+        "Take breaks to avoid eye strain and back pain.",
+        "Save your work often to avoid losing data.",
+        "Avoid downloading files from unknown websites.",
+        "Use antivirus software and avoid spam emails."
+      ],
+      "local_example": "Helping learners use a shared computer safely in a school lab."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which tool is best for typing a letter?",
+      "options": ["Excel", "Word", "PowerPoint", "Paint"],
+      "answer": "Word"
+    },
+    {
+      "question": "What is Excel mainly used for?",
+      "options": ["Making drawings", "Writing stories", "Recording data and calculations", "Watching movies"],
+      "answer": "Recording data and calculations"
+    },
+    {
+      "question": "Which app helps you create slides for a presentation?",
+      "options": ["Microsoft Word", "Google", "Microsoft PowerPoint", "Paint"],
+      "answer": "Microsoft PowerPoint"
+    },
+    {
+      "question": "Where can you store files online safely?",
+      "options": ["Phone memory", "CD", "Google Drive", "TV"],
+      "answer": "Google Drive"
+    },
+    {
+      "question": "Which of these is a good computer safety habit?",
+      "options": [
+        "Sharing your passwords with friends",
+        "Opening unknown links in emails",
+        "Taking breaks and saving work often",
+        "Ignoring software updates"
+      ],
+      "answer": "Taking breaks and saving work often"
+    },
+    {
+      "question": "What do you need to send an email?",
+      "options": [
+        "Computer without internet",
+        "A paint program",
+        "An email account and internet",
+        "Just a phone number"
+      ],
+      "answer": "An email account and internet"
+    }
+  ]
+},
+
+{
+  "title": "Social Media Marketing",
+  "description": "Learn how to take better photos using a smartphone and use social media platforms like Facebook, Instagram, and TikTok to promote your business or personal brand.",
+  "lessons": [
+    {
+      "title": "Taking Good Photos with a Smartphone",
+      "content": "You don’t need an expensive camera to take great photos. Most smartphones today can take clear and beautiful pictures if used correctly. Good photography helps you attract more people to your posts or products.",
+      "key_points": [
+        "Clean your phone camera lens before taking photos.",
+        "Use natural lighting whenever possible — morning or late afternoon is best.",
+        "Keep your hands steady or use a stand to avoid blurry images.",
+        "Use the grid feature to align your photo and follow the ‘rule of thirds’.",
+        "Take multiple shots and choose the best one."
+      ],
+      "local_example": "Taking clear, well-lit photos of mandasi or clothes to post on WhatsApp groups and Facebook Marketplace."
+    },
+    {
+      "title": "Editing and Enhancing Photos",
+      "content": "Basic editing makes your photos look more attractive and professional. You can use simple apps to improve brightness, contrast, and sharpness.",
+      "key_points": [
+        "Use free apps like Snapseed, Lightroom, or your phone’s photo editor.",
+        "Avoid over-editing — aim for natural colors.",
+        "Crop out distractions and focus on the product.",
+        "Add your name or logo if you are running a business."
+      ],
+      "local_example": "Using Snapseed to brighten photos of handmade handbags before posting them online."
+    },
+    {
+      "title": "Basics of Social Media Marketing",
+      "content": "Marketing on social media helps you reach more people and sell products easily. It's cheaper than traditional advertising and great for small businesses.",
+      "key_points": [
+        "Use Facebook, Instagram, and TikTok to post your products or services.",
+        "Post regularly to stay visible to your followers.",
+        "Respond to comments and messages quickly to build trust.",
+        "Use hashtags (e.g., #mandasi #MadeInMalawi) to reach more people.",
+        "Join local buy-and-sell groups to post your products."
+      ],
+      "local_example": "Posting photos of freshly baked cakes on Facebook every Friday to attract weekend customers."
+    },
+    {
+      "title": "Creating Content for Facebook, Instagram, and TikTok",
+      "content": "Different social media platforms work in different ways. Knowing how to create the right content helps your business grow.",
+      "key_points": [
+        "Use Facebook for posts, pictures, and longer descriptions.",
+        "Use Instagram for high-quality images and short videos with good captions.",
+        "Use TikTok for fun and short videos showing how your product is made or used.",
+        "Include prices, contact details, and location in your posts.",
+        "Use stories, reels, or status updates to show daily activity and new items."
+      ],
+      "local_example": "Recording a short video while sewing a dress and posting it on TikTok with background music."
+    },
+    {
+      "title": "Tips for Growing Your Online Presence",
+      "content": "Building a strong social media presence takes time and consistency. These tips help you grow your followers and turn them into customers.",
+      "key_points": [
+        "Post high-quality photos consistently (e.g., 3–5 times per week).",
+        "Engage with your audience by replying and asking questions.",
+        "Follow and learn from others who sell similar items online.",
+        "Share your posts to WhatsApp groups and encourage sharing.",
+        "Ask happy customers to tag or mention your page."
+      ],
+      "local_example": "Asking a friend to share your baking business post with her WhatsApp group for more exposure."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is one way to take better photos with a smartphone?",
+      "options": [
+        "Take photos in a dark room",
+        "Zoom in too much",
+        "Use natural light and hold the phone steady",
+        "Shake the phone while shooting"
+      ],
+      "answer": "Use natural light and hold the phone steady"
+    },
+    {
+      "question": "Why is editing photos important?",
+      "options": [
+        "To hide the product",
+        "To make them confusing",
+        "To make them look clearer and more attractive",
+        "To waste time"
+      ],
+      "answer": "To make them look clearer and more attractive"
+    },
+    {
+      "question": "What is a good reason to use hashtags?",
+      "options": [
+        "To confuse people",
+        "To reach more people online",
+        "To look fancy",
+        "To add random words"
+      ],
+      "answer": "To reach more people online"
+    },
+    {
+      "question": "What type of content is best for TikTok?",
+      "options": [
+        "Long stories",
+        "Audio recordings",
+        "Short, fun videos",
+        "Written articles"
+      ],
+      "answer": "Short, fun videos"
+    },
+    {
+      "question": "How can you grow your social media presence?",
+      "options": [
+        "Post low-quality photos once a month",
+        "Ignore customer messages",
+        "Post consistently and engage with followers",
+        "Delete all old posts"
+      ],
+      "answer": "Post consistently and engage with followers"
+    }
+  ]
+},
+
+
+
+
   {
   "title": "Basic Baking at Home",
   "description": "Learn to bake mandasi, cakes, and bread using simple ingredients and basic techniques. This module will guide you through measuring, mixing, baking, and serving delicious homemade baked goods.",
@@ -439,6 +687,308 @@
     }
   ]
 },
+
+{
+  "title": "Mobile Money Payments",
+  "description": "Learn how to register, use, and manage mobile money services like Airtel Money and TNM Mpamba for safe and simple financial transactions. This module also teaches how to avoid scams and use mobile money for daily needs like buying airtime or paying bills.",
+  "lessons": [
+    {
+      "title": "Introduction to Mobile Money",
+      "content": "Mobile money allows you to send, receive, and store money using your phone. You do not need a bank account to use it, and it works in both rural and urban areas.",
+      "key_points": [
+        "Popular services in Malawi include Airtel Money and TNM Mpamba.",
+        "You only need a SIM card, a phone, and a national ID to register.",
+        "You can send money to others, pay bills, and buy airtime anytime.",
+        "Mobile money saves time and reduces the need to carry cash."
+      ],
+      "local_example": "Registering for Airtel Money at a shop to receive money from relatives in town."
+    },
+    {
+      "title": "How to Register and Use Mobile Money",
+      "content": "Getting started is easy. Once you register, you will be able to perform many financial tasks using USSD codes or mobile apps.",
+      "key_points": [
+        "Register with your ID card and phone at an agent shop or mobile kiosk.",
+        "Set a secret PIN and never share it with anyone.",
+        "Use shortcodes like *211# for Airtel or *444# for TNM to access services.",
+        "Follow the menu to send money, buy airtime, or pay bills."
+      ],
+      "local_example": "Using *211# to send school fees to a family member using Airtel Money."
+    },
+    {
+      "title": "Sending, Receiving, and Withdrawing Money",
+      "content": "Mobile money lets you transfer funds securely from one person to another or withdraw as physical cash when needed.",
+      "key_points": [
+        "Always double-check the receiver's phone number before sending.",
+        "You will receive an SMS after a successful transaction.",
+        "To withdraw cash, go to a nearby agent with your ID and phone.",
+        "Agents charge small fees for transactions — always ask for a receipt."
+      ],
+      "local_example": "Receiving money from a customer after selling a dress and withdrawing it at the nearest Mpamba agent."
+    },
+    {
+      "title": "Avoiding Mobile Money Scams",
+      "content": "Scammers use tricks to steal money. Stay alert and never trust strangers who ask for money or your PIN.",
+      "key_points": [
+        "Never share your PIN, even with family or agents.",
+        "Ignore messages saying you won a prize or promotion.",
+        "Do not follow strange links or call back unknown numbers.",
+        "Report suspicious messages or calls to customer service."
+      ],
+      "local_example": "Ignoring a fake SMS that said, 'You have won K100,000. Send PIN to claim.'"
+    },
+    {
+      "title": "Using Mobile Money to Buy Airtime and Pay Bills",
+      "content": "Mobile money can help you pay for services without needing to go to town or queue. It saves time and transport costs.",
+      "key_points": [
+        "Buy airtime for yourself or others using the mobile money menu.",
+        "Pay electricity (ESCOM), TV subscriptions (like GOtv), or water bills easily.",
+        "Some payments can be done directly through mobile apps.",
+        "Keep SMS confirmations as proof of payment."
+      ],
+      "local_example": "Paying for electricity units (token) using TNM Mpamba without leaving the house."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What do you need to register for mobile money?",
+      "options": [
+        "Bank account and birth certificate",
+        "Phone, SIM card, and national ID",
+        "Passport only",
+        "Nothing"
+      ],
+      "answer": "Phone, SIM card, and national ID"
+    },
+    {
+      "question": "Which one is a correct shortcode for Airtel Money?",
+      "options": ["*211#", "*100#", "*444#", "*111#"],
+      "answer": "*211#"
+    },
+    {
+      "question": "Why should you never share your mobile money PIN?",
+      "options": [
+        "Because it is hard to remember",
+        "So others can use your money",
+        "To protect your account from theft",
+        "It’s okay to share with friends"
+      ],
+      "answer": "To protect your account from theft"
+    },
+    {
+      "question": "What should you do if someone asks for your PIN by SMS?",
+      "options": [
+        "Send it quickly",
+        "Call them back",
+        "Ignore and report the message",
+        "Give part of your PIN"
+      ],
+      "answer": "Ignore and report the message"
+    },
+    {
+      "question": "What can you pay for using mobile money?",
+      "options": [
+        "Electricity and TV bills",
+        "Buying maize only",
+        "Nothing useful",
+        "Just airtime"
+      ],
+      "answer": "Electricity and TV bills"
+    }
+  ]
+},
+
+{
+  "title": "Design & Fashion",
+  "description": "Learn the basics of fashion design, fabric selection, and how to sew clothing for special occasions. This module helps you grow your tailoring skills into a creative and profitable business.",
+  "lessons": [
+    {
+      "title": "Basic Fashion Design and Sketching",
+      "content": "Fashion design begins with creative ideas that are drawn on paper. Sketching helps you visualize clothing before cutting the fabric. It is an important step for custom tailoring.",
+      "key_points": [
+        "Start with simple body outlines and draw the clothing style over it.",
+        "Use pencils, colored pens, or simple apps for sketching ideas.",
+        "Add notes like sleeve type, neck design, or fabric choice to your sketch.",
+        "Keep a sketchbook to record ideas and customer requests.",
+        "Practice drawing common styles like skirts, blouses, trousers, and dresses."
+      ],
+      "local_example": "Sketching a chitenje dress design for a customer going to a wedding."
+    },
+    {
+      "title": "Choosing Fabrics and Colors",
+      "content": "Fabric choice affects comfort, look, and the success of your design. Understanding colors and textures helps you give better fashion advice to customers.",
+      "key_points": [
+        "Use cotton or polyester for daily wear; satin, lace, and silk for special events.",
+        "Bold colors work well for festivals; soft colors for formal wear.",
+        "Match fabrics to the weather — lighter for hot seasons, heavier for cold.",
+        "Mix textures like lace with cotton for stylish effects.",
+        "Help customers choose colors based on their skin tone and event type."
+      ],
+      "local_example": "Using white satin with blue lace for a bridal outfit requested by a client."
+    },
+    {
+      "title": "Sewing Styles for Special Occasions",
+      "content": "Special occasions require unique styles with more detail. As a tailor, you must sew with care and use quality finishes for weddings, parties, and church wear.",
+      "key_points": [
+        "Popular styles include flare dresses, pencil skirts, suits, and shirts with embroidery.",
+        "Use zippers, buttons, beads, and lace to add beauty.",
+        "Always fit the garment on the client before finishing.",
+        "Pay attention to symmetry, curves, and clean stitching.",
+        "Iron the garment and package it neatly before delivery."
+      ],
+      "local_example": "Sewing matching family outfits (his & hers) for a church celebration."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Why is sketching important in fashion design?",
+      "options": [
+        "To color pages",
+        "To imagine clothes before sewing",
+        "To pass time",
+        "To write prices"
+      ],
+      "answer": "To imagine clothes before sewing"
+    },
+    {
+      "question": "Which fabric is best for a wedding dress?",
+      "options": ["Denim", "Lace or satin", "Polythene", "Wool"],
+      "answer": "Lace or satin"
+    },
+    {
+      "question": "What should you do before completing a dress for an event?",
+      "options": [
+        "Wash it",
+        "Sell it to someone else",
+        "Fit it on the client",
+        "Cut extra pieces"
+      ],
+      "answer": "Fit it on the client"
+    },
+    {
+      "question": "Which colors are best for formal wear?",
+      "options": ["Neon green and pink", "Very bright colors", "Soft and calm colors", "All black only"],
+      "answer": "Soft and calm colors"
+    },
+    {
+      "question": "What makes a dress suitable for a special event?",
+      "options": [
+        "Torn and cheap material",
+        "Using beads, lace, and a good fit",
+        "Random sewing without design",
+        "Old fabric only"
+      ],
+      "answer": "Using beads, lace, and a good fit"
+    }
+  ]
+},
+
+
+
+{
+  "title": "Basic Entrepreneurship",
+  "description": "Learn how to start and manage a small business, budget your money, attract and keep customers, and keep simple financial records to grow a successful business.",
+  "lessons": [
+    {
+      "title": "Starting a Small Business",
+      "content": "Starting a business begins with identifying a problem or need and finding a simple solution. You don’t need big capital — just a good idea and a plan.",
+      "key_points": [
+        "Think of a product or service people in your area need.",
+        "Start small with what you have and grow over time.",
+        "Write down your business idea, plan your steps, and set goals.",
+        "Talk to others who are running small businesses and learn from them.",
+        "Choose a good location or platform (e.g., roadside stall, home, or online)."
+      ],
+      "local_example": "Starting a mandasi business near a school with just flour, oil, and a frying pan."
+    },
+    {
+      "title": "Budgeting and Saving",
+      "content": "Budgeting helps you plan your income and expenses so that you don’t overspend. Saving helps you grow your business or handle emergencies.",
+      "key_points": [
+        "Record all income and spending each week.",
+        "Separate business money from personal money.",
+        "Buy what you need, not just what you want.",
+        "Save a little from each sale or profit.",
+        "Use savings to grow your business, not for luxury."
+      ],
+      "local_example": "Saving part of daily profits from tailoring to buy a better sewing machine."
+    },
+    {
+      "title": "Customer Service Skills",
+      "content": "Happy customers will return and tell others about your business. Customer service means treating customers with respect and honesty.",
+      "key_points": [
+        "Greet customers politely and listen to their needs.",
+        "Keep promises — deliver on time and provide good quality.",
+        "Accept feedback and improve where necessary.",
+        "Handle complaints calmly and find solutions.",
+        "Say 'thank you' and follow up if possible (e.g., via WhatsApp)."
+      ],
+      "local_example": "A young entrepreneur making custom aprons and sending photos to customers before delivery to confirm design."
+    },
+    {
+      "title": "Marketing Basics (Online and Offline)",
+      "content": "Marketing is how you tell people about your product. Use simple tools to promote your business — both online and in your community.",
+      "key_points": [
+        "Use flyers, word of mouth, posters, and signs for offline marketing.",
+        "Take good photos and post them on WhatsApp, Facebook, or TikTok.",
+        "Join buy-and-sell groups or pages to reach more people.",
+        "Offer promotions or discounts to attract new customers.",
+        "Use branding — like wearing a branded apron or using labels."
+      ],
+      "local_example": "Posting freshly baked cakes on Facebook with prices and contact info."
+    },
+    {
+      "title": "Record Keeping and Bookkeeping",
+      "content": "Keeping records helps you know if your business is making profit or loss. It also helps you plan better and stay organized.",
+      "key_points": [
+        "Write down every sale, cost, and profit in a simple notebook.",
+        "Use a cashbook or daily expense tracker.",
+        "Keep receipts and supplier contact info safely.",
+        "Review your records weekly or monthly.",
+        "Know your profit margin: Total Sales – Total Costs = Profit."
+      ],
+      "local_example": "A market vendor tracking tomato sales and costs daily to calculate weekly profits."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is the first step in starting a small business?",
+      "options": ["Borrowing money", "Finding a business idea", "Buying expensive tools", "Closing other businesses"],
+      "answer": "Finding a business idea"
+    },
+    {
+      "question": "Why is it important to separate personal and business money?",
+      "options": [
+        "To confuse yourself",
+        "To lose track of spending",
+        "To keep business finances clear",
+        "So others won’t know"
+      ],
+      "answer": "To keep business finances clear"
+    },
+    {
+      "question": "Which one is a good customer service habit?",
+      "options": ["Ignoring complaints", "Being rude", "Saying thank you and delivering on time", "Raising prices without notice"],
+      "answer": "Saying thank you and delivering on time"
+    },
+    {
+      "question": "How can you market your business online?",
+      "options": ["Sending letters", "Posting photos on Facebook and WhatsApp", "Waiting for customers", "Shouting in the street"],
+      "answer": "Posting photos on Facebook and WhatsApp"
+    },
+    {
+      "question": "Why keep records in a small business?",
+      "options": [
+        "To impress friends",
+        "To forget costs",
+        "To know profits and plan better",
+        "To avoid work"
+      ],
+      "answer": "To know profits and plan better"
+    }
+  ]
+},
+
+
 
 {
   "title": "Basic Farming Skills",

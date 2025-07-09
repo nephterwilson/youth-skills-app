@@ -133,46 +133,6 @@
   ]
 },
 
-
-    {
-      "title": "Basic Farming Skills",
-      "description": "Learn how to grow crops effectively, prepare land, and manage pests.",
-      "lessons": [
-        {
-          "title": "Soil Preparation",
-          "content": "Good farming starts with proper soil preparation like tilling and adding compost.",
-          "key_points": [
-            "Remove weeds before planting",
-            "Use organic manure to enrich soil",
-            "Make ridges or beds depending on crop"
-          ],
-          "local_example": "Using compost from maize husks and animal waste."
-        },
-        {
-          "title": "Planting and Spacing",
-          "content": "Proper spacing and correct planting methods help crops grow well.",
-          "key_points": [
-            "Follow spacing for each crop (e.g., 75cm for maize)",
-            "Plant at right depth (2–5cm)",
-            "Use clean, treated seeds"
-          ],
-          "local_example": "Spacing tomatoes correctly in a backyard garden."
-        }
-      ],
-      "quiz": [
-        {
-          "question": "What improves soil fertility?",
-          "options": ["Rubbish", "Plastic", "Organic manure", "Stones"],
-          "answer": "Organic manure"
-        },
-        {
-          "question": "Why is crop spacing important?",
-          "options": ["To look neat", "To help growth and reduce disease", "For fun", "No reason"],
-          "answer": "To help growth and reduce disease"
-        }
-      ]
-    },
-
    {
   "title": "Introduction to Tailoring",
   "description": "Learn the basics of measuring, cutting, sewing, and finishing clothes. This module helps you develop the skills needed to start tailoring at home or professionally, with step-by-step guidance from measurements to completed garments.",
@@ -478,6 +438,100 @@
       "answer": "Wash hands before baking"
     }
   ]
+},
+
+{
+  "title": "Basic Farming Skills",
+  "description": "Learn how to grow crops effectively, prepare land, manage pests, and improve your harvest with simple, practical farming techniques.",
+  "lessons": [
+    {
+      "title": "Soil Preparation",
+      "content": "Good farming starts with proper soil preparation. Preparing the soil well improves water retention, aeration, and nutrient availability for crops.",
+      "key_points": [
+        "Remove weeds and old plant debris before planting.",
+        "Tilling or turning the soil helps loosen it for root growth.",
+        "Add organic manure or compost to enrich the soil naturally.",
+        "Test soil texture; sandy soils drain fast, clay soils hold water longer.",
+        "Make ridges or beds based on the type of crop and land slope."
+      ],
+      "local_example": "Using compost made from maize husks, cow dung, and kitchen waste to enrich soil in a village garden."
+    },
+    {
+      "title": "Planting and Spacing",
+      "content": "Planting seeds or seedlings at the correct depth and spacing is crucial for healthy crop development and good yield.",
+      "key_points": [
+        "Follow recommended spacing: for example, maize should be spaced about 75cm apart.",
+        "Plant seeds at the right depth, usually between 2 to 5cm depending on the crop.",
+        "Use clean, treated seeds to reduce disease risk and improve germination.",
+        "Water seeds gently after planting to avoid washing them away.",
+        "Thin out crowded seedlings to prevent competition for nutrients."
+      ],
+      "local_example": "Spacing tomato seedlings properly in backyard gardens in Lilongwe to improve air circulation and fruit size."
+    },
+    {
+      "title": "Watering and Irrigation",
+      "content": "Providing enough water is essential for crop growth, especially during dry periods.",
+      "key_points": [
+        "Water crops early in the morning or late in the afternoon to reduce evaporation.",
+        "Avoid overwatering which can cause root rot or fungal diseases.",
+        "Use simple irrigation methods such as drip or basin irrigation where possible.",
+        "Mulch around plants to conserve soil moisture and reduce weeds."
+      ],
+      "local_example": "Using rainwater harvesting barrels to irrigate small gardens during dry spells."
+    },
+    {
+      "title": "Pest and Disease Management",
+      "content": "Protecting crops from pests and diseases is vital for a good harvest.",
+      "key_points": [
+        "Regularly inspect crops for signs of pests or disease.",
+        "Use natural pest control methods like companion planting and organic pesticides.",
+        "Remove infected plants quickly to prevent spread.",
+        "Rotate crops each season to reduce pest build-up.",
+        "Practice good farm hygiene by cleaning tools and equipment."
+      ],
+      "local_example": "Using neem leaves as a natural pesticide to control aphids on cabbage crops."
+    },
+    {
+      "title": "Harvesting and Storage",
+      "content": "Harvest crops at the right time and store them properly to maintain quality and reduce losses.",
+      "key_points": [
+        "Harvest maize when kernels are hard and dry.",
+        "Pick fruits and vegetables early in the morning when cool.",
+        "Dry crops like maize and beans thoroughly before storage.",
+        "Store crops in a cool, dry place protected from pests and moisture.",
+        "Use traditional storage methods like granaries or improved bags."
+      ],
+      "local_example": "Drying maize cobs in the sun and storing them in traditional granaries to prevent mold."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What improves soil fertility?",
+      "options": ["Rubbish", "Plastic", "Organic manure", "Stones"],
+      "answer": "Organic manure"
+    },
+    {
+      "question": "Why is crop spacing important?",
+      "options": ["To look neat", "To help growth and reduce disease", "For fun", "No reason"],
+      "answer": "To help growth and reduce disease"
+    },
+    {
+      "question": "When is the best time to water crops?",
+      "options": ["Midday", "Early morning or late afternoon", "Night time", "Anytime randomly"],
+      "answer": "Early morning or late afternoon"
+    },
+    {
+      "question": "How can you naturally control pests?",
+      "options": ["Use companion planting", "Ignore them", "Spray with water only", "Burn the whole field"],
+      "answer": "Use companion planting"
+    },
+    {
+      "question": "Why should you dry crops before storage?",
+      "options": ["To make them look good", "To prevent mold and rot", "To lose weight", "No reason"],
+      "answer": "To prevent mold and rot"
+    }
+  ]
 }
+
   ]
 }

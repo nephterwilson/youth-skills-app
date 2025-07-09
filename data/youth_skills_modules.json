@@ -1,0 +1,162 @@
+
+
+
+{
+  "modules": [
+    {
+      "title": "Digital Literacy Basics",
+      "description": "Learn how to use smartphones, internet, and basic apps to improve your life and work.",
+      "lessons": [
+        {
+          "title": "Introduction to Smartphones",
+          "content": "A smartphone is a mobile phone with internet and apps. You can use it for calls, messages, photos, and work tasks.",
+          "key_points": [
+            "Smartphones run on Android or iOS",
+            "Apps help you with different tasks",
+            "You can connect to the internet via data or Wi-Fi"
+          ],
+          "local_example": "Using WhatsApp to communicate with customers or family."
+        },
+        {
+          "title": "Using the Internet",
+          "content": "The internet connects you to websites, emails, and social media.",
+          "key_points": [
+            "Use Google to search for information",
+            "Watch YouTube to learn new skills",
+            "Avoid scams and unknown links"
+          ],
+          "local_example": "Searching for job opportunities on Facebook groups."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is a smartphone?",
+          "options": ["A device for only calling", "A smart TV", "A phone with apps and internet", "A landline phone"],
+          "answer": "A phone with apps and internet"
+        },
+        {
+          "question": "Why is the internet useful?",
+          "options": ["To waste time", "To find info, connect, and learn", "To make noise", "To watch TV"],
+          "answer": "To find info, connect, and learn"
+        }
+      ]
+    },
+
+    {
+      "title": "Basic Farming Skills",
+      "description": "Learn how to grow crops effectively, prepare land, and manage pests.",
+      "lessons": [
+        {
+          "title": "Soil Preparation",
+          "content": "Good farming starts with proper soil preparation like tilling and adding compost.",
+          "key_points": [
+            "Remove weeds before planting",
+            "Use organic manure to enrich soil",
+            "Make ridges or beds depending on crop"
+          ],
+          "local_example": "Using compost from maize husks and animal waste."
+        },
+        {
+          "title": "Planting and Spacing",
+          "content": "Proper spacing and correct planting methods help crops grow well.",
+          "key_points": [
+            "Follow spacing for each crop (e.g., 75cm for maize)",
+            "Plant at right depth (2–5cm)",
+            "Use clean, treated seeds"
+          ],
+          "local_example": "Spacing tomatoes correctly in a backyard garden."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What improves soil fertility?",
+          "options": ["Rubbish", "Plastic", "Organic manure", "Stones"],
+          "answer": "Organic manure"
+        },
+        {
+          "question": "Why is crop spacing important?",
+          "options": ["To look neat", "To help growth and reduce disease", "For fun", "No reason"],
+          "answer": "To help growth and reduce disease"
+        }
+      ]
+    },
+
+    {
+      "title": "Introduction to Tailoring",
+      "description": "Learn the basics of measuring, cutting, and sewing clothes.",
+      "lessons": [
+        {
+          "title": "Taking Body Measurements",
+          "content": "Use a tape measure to get accurate body measurements for fitting clothes.",
+          "key_points": [
+            "Measure chest, waist, hips, and height",
+            "Use inches or centimeters",
+            "Always write down your measurements"
+          ],
+          "local_example": "Measuring customers before sewing school uniforms."
+        },
+        {
+          "title": "Sewing Simple Clothes",
+          "content": "Learn to use hand-sewing or sewing machines to make basic garments.",
+          "key_points": [
+            "Thread a needle or machine correctly",
+            "Start with pillowcases, shorts or aprons",
+            "Use patterns to cut fabric accurately"
+          ],
+          "local_example": "Sewing chitenges and shirts at home to sell."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What tool is used to measure the body?",
+          "options": ["Ruler", "Phone", "Tape measure", "Spoon"],
+          "answer": "Tape measure"
+        },
+        {
+          "question": "Why use patterns in tailoring?",
+          "options": ["For decorations", "To cut fabric correctly", "For ironing", "For cooking"],
+          "answer": "To cut fabric correctly"
+        }
+      ]
+    },
+
+    {
+      "title": "Basic Baking at Home",
+      "description": "Learn to bake mandasi, cakes, and bread using simple ingredients.",
+      "lessons": [
+        {
+          "title": "Ingredients and Tools",
+          "content": "Gather flour, sugar, baking powder, eggs, and basic tools like bowls and spoons.",
+          "key_points": [
+            "Clean hands and tools are important",
+            "Measure ingredients properly",
+            "Use an oven, charcoal stove or frying pan"
+          ],
+          "local_example": "Baking mandasi for sale in the market."
+        },
+        {
+          "title": "Making Mandasi (Fritters)",
+          "content": "Mix flour, sugar, water and yeast or baking powder to make tasty mandasi.",
+          "key_points": [
+            "Let dough rise before frying",
+            "Use hot oil but don’t burn",
+            "Sell them fresh for better taste"
+          ],
+          "local_example": "Selling baked snacks at school or church events."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which ingredient helps dough rise?",
+          "options": ["Salt", "Water", "Baking powder or yeast", "Oil"],
+          "answer": "Baking powder or yeast"
+        },
+        {
+          "question": "What should you do before baking?",
+          "options": ["Nothing", "Clean tools and measure", "Sleep", "Add random things"],
+          "answer": "Clean tools and measure"
+        }
+      ]
+    }
+  ]
+}

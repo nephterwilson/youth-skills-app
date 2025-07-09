@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 p-6">
+  <div class="max-w-xl mx-auto bg-white shadow-lg rounded-2xl p-6">
+    <h2 class="text-xl font-bold text-blue-700 mb-4">Quiz</h2>
+    <div id="quiz-container">
+      <!-- Quiz question will be loaded here -->
+    </div>
+    <div class="mt-6 text-right">
+      <a href="certificate.html" class="bg-green-600 text-white px-4 py-2 rounded-xl hover:bg-green-700">Finish</a>
+    </div>
+  </div>
+  <script src="js/quiz.js"></script>
+</body>
+</html>
+
+
+<script>
+
+  document.addEventListener("DOMContentLoaded", () => {
+  const quizContainer = document.getElementById("quiz-container");
+  if (!quizContainer) return;
+
+  // Get module index from URL query param
+  const params = new URLSearchParams(window.location.search);
+  const moduleIndex = parseInt(params.get("module"));
+
+  if (isNaN(moduleIndex)) {
+    quizContainer.innerHTML = "<p class='text-red-600'>No module selected.</p>";
+    return;
+  }
+
+  fetch("data/youth_skills_modules.json")
+    .then(res => res.json())
+    .then(data => {
+      const module = data.modules[moduleIndex];
+      if (!module || !module.quiz || module.quiz.length === 0) {
+        quizContainer.innerHTML = "<p>No quiz available for this module.</p>";
+        return;
+      }
+
+      let currentQuestionIndex = 0;
+
+      function loadQuestion(index) {
+        const q = module.quiz[index];
+        quizContainer.innerHTML = `
+          <h3 class="text-lg font-semibold mb-4">${index + 1}. ${q.question}</h3>
+          <ul class="space-y-2">
+            ${q.options.map(opt => `
+              <li>
+                <button class="w-full bg-gray-100 p-3 rounded hover:bg-gray-200">${opt}</button>
+              </li>
+            `).join('')}
+          </ul>
+        `;
+
+        const buttons = quizContainer.querySelectorAll("button");
+        buttons.forEach(btn => {
+          btn.addEventListener("click", () => {
+            if (btn.innerText === q.answer) {
+              alert("Correct!");
+            } else {
+              alert("Wrong!");
+            }
+            currentQuestionIndex++;
+            if (currentQuestionIndex < module.quiz.length) {
+              loadQuestion(currentQuestionIndex);
+            } else {
+              quizContainer.innerHTML = `<h3 class="text-xl font-bold">Quiz Completed!</h3>`;
+            }
+          });
+        });
+      }
+
+      loadQuestion(currentQuestionIndex);
+    })
+    .catch(err => {
+      quizContainer.innerHTML = "<p class='text-red-600'>Failed to load quiz data.</p>";
+      console.error(err);
+    });
+});
+
+</script>

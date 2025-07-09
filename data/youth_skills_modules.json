@@ -4,43 +4,135 @@
 {
   "modules": [
     {
-      "title": "Digital Literacy Basics",
-      "description": "Learn how to use smartphones, internet, and basic apps to improve your life and work.",
-      "lessons": [
-        {
-          "title": "Introduction to Smartphones",
-          "content": "A smartphone is a mobile phone with internet and apps. You can use it for calls, messages, photos, and work tasks.",
-          "key_points": [
-            "Smartphones run on Android or iOS",
-            "Apps help you with different tasks",
-            "You can connect to the internet via data or Wi-Fi"
-          ],
-          "local_example": "Using WhatsApp to communicate with customers or family."
-        },
-        {
-          "title": "Using the Internet",
-          "content": "The internet connects you to websites, emails, and social media.",
-          "key_points": [
-            "Use Google to search for information",
-            "Watch YouTube to learn new skills",
-            "Avoid scams and unknown links"
-          ],
-          "local_example": "Searching for job opportunities on Facebook groups."
-        }
+  "title": "Digital Literacy Basics",
+  "description": "Learn how to use smartphones, the internet, and basic apps to improve your life and work. This module introduces essential digital skills for communication, learning, and productivity.",
+  "lessons": [
+    {
+      "title": "Introduction to Smartphones",
+      "content": "A smartphone is a mobile phone that has advanced features like internet access, a touchscreen, and the ability to install apps. It allows you to make calls, send messages, take photos, browse the web, and run mobile applications. Understanding your smartphone’s features helps you get the most out of it.",
+      "key_points": [
+        "Smartphones are portable computers with touchscreen interfaces.",
+        "They run on operating systems like Android or iOS.",
+        "You can install apps for learning, business, health, and social interaction.",
+        "Most smartphones support mobile data, Wi-Fi, GPS, and cameras.",
+        "Popular brands include Samsung, Tecno, iPhone, Itel, and Infinix.",
+        "Learn how to turn your phone on/off, adjust volume, and manage battery."
       ],
-      "quiz": [
-        {
-          "question": "What is a smartphone?",
-          "options": ["A device for only calling", "A smart TV", "A phone with apps and internet", "A landline phone"],
-          "answer": "A phone with apps and internet"
-        },
-        {
-          "question": "Why is the internet useful?",
-          "options": ["To waste time", "To find info, connect, and learn", "To make noise", "To watch TV"],
-          "answer": "To find info, connect, and learn"
-        }
-      ]
+      "local_example": "Using WhatsApp on a Tecno phone to update customers on market prices."
     },
+    {
+      "title": "Using the Internet",
+      "content": "The internet connects people and information globally. It allows users to access websites, email, videos, and social media. Knowing how to navigate the internet safely and effectively opens opportunities for education, business, and social connection.",
+      "key_points": [
+        "Use search engines like Google to find answers to questions.",
+        "Email helps in formal communication; apps like Gmail or Yahoo are common.",
+        "Social media platforms like Facebook, TikTok, and Instagram connect people and communities.",
+        "YouTube offers free learning videos on farming, cooking, tailoring, and more.",
+        "Always verify information and be careful of fake news or scams online.",
+        "Understand basic terms: website, browser, URL, link, download."
+      ],
+      "local_example": "Searching for tailoring tutorials on YouTube and learning from them at home."
+    },
+    {
+      "title": "Mobile Apps for Everyday Use",
+      "content": "Apps are small programs you install on smartphones to help with different tasks like chatting, learning, or running a business. Learning to download, install, and use apps helps you in many areas of daily life.",
+      "key_points": [
+        "WhatsApp is used for messaging, voice notes, and group chats.",
+        "Facebook helps in marketing your small business and connecting with customers.",
+        "YouTube is a video platform where you can watch and upload content.",
+        "Zoom and Google Meet are used for online meetings or learning.",
+        "There are apps for budgeting, farming advice, health tips, and more.",
+        "Learn how to update apps and manage phone storage."
+      ],
+      "local_example": "Using WhatsApp groups to advertise fresh mandasi in your community."
+    },
+    {
+      "title": "Creating and Managing Digital Accounts",
+      "content": "Many online services require accounts. Knowing how to create, protect, and manage these accounts is essential for safe internet use.",
+      "key_points": [
+        "Use strong, unique passwords for each account.",
+        "Avoid sharing passwords with others.",
+        "Keep recovery information (like phone number or email) up to date.",
+        "Log out from shared or public devices.",
+        "Enable two-factor authentication (2FA) when available for extra security."
+      ],
+      "local_example": "Creating a Gmail account to send and receive job applications."
+    },
+    {
+      "title": "Staying Safe Online",
+      "content": "Just like in real life, you need to protect yourself online. This involves keeping your information private and being careful about the websites and people you interact with.",
+      "key_points": [
+        "Do not share passwords or personal details with strangers.",
+        "Avoid clicking suspicious links — they might be scams or viruses.",
+        "Use antivirus apps and keep your apps updated.",
+        "If a message or link looks too good to be true, it probably is.",
+        "Ask a trusted person for help if unsure about something online.",
+        "Recognize phishing attempts and scams."
+      ],
+      "local_example": "Ignoring a fake message saying you've won a prize and reporting it to a teacher or parent."
+    },
+    {
+      "title": "Basic Troubleshooting and Maintenance",
+      "content": "Learning how to solve common smartphone problems and maintain your device helps it last longer and perform better.",
+      "key_points": [
+        "Restart your phone to fix minor issues.",
+        "Clear app cache to free up space and improve speed.",
+        "Delete unused apps to save storage.",
+        "Charge your phone with the correct charger to avoid damage.",
+        "Back up important data regularly, like photos and contacts."
+      ],
+      "local_example": "Teaching elders in the community to back up photos of important events."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is a smartphone?",
+      "options": [
+        "A device for only calling",
+        "A smart TV",
+        "A phone with apps and internet",
+        "A landline phone"
+      ],
+      "answer": "A phone with apps and internet"
+    },
+    {
+      "question": "Why is the internet useful?",
+      "options": [
+        "To waste time",
+        "To find info, connect, and learn",
+        "To make noise",
+        "To watch TV"
+      ],
+      "answer": "To find info, connect, and learn"
+    },
+    {
+      "question": "Which app is good for chatting with family?",
+      "options": ["Facebook", "Zoom", "WhatsApp", "YouTube"],
+      "answer": "WhatsApp"
+    },
+    {
+      "question": "What should you avoid online?",
+      "options": ["Helpful tutorials", "Scam links", "Learning apps", "Internet bundles"],
+      "answer": "Scam links"
+    },
+    {
+      "question": "What can you use YouTube for?",
+      "options": ["Online learning", "Cutting fabric", "Planting maize", "Cooking food"],
+      "answer": "Online learning"
+    },
+    {
+      "question": "What is an example of safe internet use?",
+      "options": [
+        "Sharing your password with friends",
+        "Clicking on free prize links",
+        "Only visiting trusted websites",
+        "Posting your phone number everywhere"
+      ],
+      "answer": "Only visiting trusted websites"
+    }
+  ]
+},
+
 
     {
       "title": "Basic Farming Skills",
@@ -81,82 +173,311 @@
       ]
     },
 
+   {
+  "title": "Introduction to Tailoring",
+  "description": "Learn the basics of measuring, cutting, sewing, and finishing clothes. This module helps you develop the skills needed to start tailoring at home or professionally, with step-by-step guidance from measurements to completed garments.",
+  "lessons": [
     {
-      "title": "Introduction to Tailoring",
-      "description": "Learn the basics of measuring, cutting, and sewing clothes.",
-      "lessons": [
-        {
-          "title": "Taking Body Measurements",
-          "content": "Use a tape measure to get accurate body measurements for fitting clothes.",
-          "key_points": [
-            "Measure chest, waist, hips, and height",
-            "Use inches or centimeters",
-            "Always write down your measurements"
-          ],
-          "local_example": "Measuring customers before sewing school uniforms."
-        },
-        {
-          "title": "Sewing Simple Clothes",
-          "content": "Learn to use hand-sewing or sewing machines to make basic garments.",
-          "key_points": [
-            "Thread a needle or machine correctly",
-            "Start with pillowcases, shorts or aprons",
-            "Use patterns to cut fabric accurately"
-          ],
-          "local_example": "Sewing chitenges and shirts at home to sell."
-        }
+      "title": "Taking Body Measurements",
+      "content": "Measuring the body accurately is the first step to making clothes that fit well. Always use a soft tape measure and record the measurements clearly. Take multiple measurements if needed to ensure accuracy.",
+      "key_points": [
+        "Measure key areas: chest, waist, hips, shoulder width, sleeve length, inseam, neck, and back length.",
+        "Ask the person to stand straight and relaxed while taking measurements.",
+        "Use the same unit of measurement consistently (inches or centimeters).",
+        "Record each measurement clearly to avoid mistakes during cutting.",
+        "Double-check measurements for accuracy before cutting fabric."
       ],
-      "quiz": [
-        {
-          "question": "What tool is used to measure the body?",
-          "options": ["Ruler", "Phone", "Tape measure", "Spoon"],
-          "answer": "Tape measure"
-        },
-        {
-          "question": "Why use patterns in tailoring?",
-          "options": ["For decorations", "To cut fabric correctly", "For ironing", "For cooking"],
-          "answer": "To cut fabric correctly"
-        }
-      ]
+      "local_example": "Measuring students in the village before sewing school uniforms for the new term."
     },
-
     {
-      "title": "Basic Baking at Home",
-      "description": "Learn to bake mandasi, cakes, and bread using simple ingredients.",
-      "lessons": [
-        {
-          "title": "Ingredients and Tools",
-          "content": "Gather flour, sugar, baking powder, eggs, and basic tools like bowls and spoons.",
-          "key_points": [
-            "Clean hands and tools are important",
-            "Measure ingredients properly",
-            "Use an oven, charcoal stove or frying pan"
-          ],
-          "local_example": "Baking mandasi for sale in the market."
-        },
-        {
-          "title": "Making Mandasi (Fritters)",
-          "content": "Mix flour, sugar, water and yeast or baking powder to make tasty mandasi.",
-          "key_points": [
-            "Let dough rise before frying",
-            "Use hot oil but don’t burn",
-            "Sell them fresh for better taste"
-          ],
-          "local_example": "Selling baked snacks at school or church events."
-        }
+      "title": "Understanding Patterns and Fabric Layout",
+      "content": "Patterns guide the cutting of fabric and help shape garments. Learning how to read and lay patterns on fabric saves material and ensures accuracy.",
+      "key_points": [
+        "Use commercial or hand-drawn patterns as templates for cutting fabric.",
+        "Place patterns on fabric according to the grainline for better fit and drape.",
+        "Use weights or pins to hold patterns firmly on the fabric while cutting.",
+        "Learn to fold fabric correctly when working with double layers.",
+        "Plan fabric layout to minimize waste."
       ],
-      "quiz": [
-        {
-          "question": "Which ingredient helps dough rise?",
-          "options": ["Salt", "Water", "Baking powder or yeast", "Oil"],
-          "answer": "Baking powder or yeast"
-        },
-        {
-          "question": "What should you do before baking?",
-          "options": ["Nothing", "Clean tools and measure", "Sleep", "Add random things"],
-          "answer": "Clean tools and measure"
-        }
-      ]
+      "local_example": "Using old newspaper to create basic pattern shapes before cutting chitenges."
+    },
+    {
+      "title": "Sewing Simple Clothes",
+      "content": "Start sewing basic garments with hand stitching or a sewing machine. Practice simple projects to build confidence and skills.",
+      "key_points": [
+        "Thread needles correctly for hand sewing or machine use.",
+        "Practice basic stitches: running stitch, backstitch, slip stitch, and hemming stitch.",
+        "Start with projects like pillowcases, shorts, aprons, or simple skirts.",
+        "Learn to sew straight seams and corners accurately.",
+        "Understand the importance of seam allowance in garment construction."
+      ],
+      "local_example": "Sewing chitenges and aprons to sell at the local market."
+    },
+    {
+      "title": "Tools and Materials Needed",
+      "content": "To begin tailoring, you need essential tools and materials that make the process easier and more professional.",
+      "key_points": [
+        "Sewing machine or hand needles suitable for different fabrics.",
+        "Measuring tape, fabric scissors, pins, chalk or fabric marker.",
+        "Variety of fabrics such as cotton, polyester, and local prints.",
+        "Threads matching fabric colors, buttons, zippers, and elastic bands.",
+        "Iron and ironing board for pressing seams and finishing."
+      ],
+      "local_example": "Using old clothes and recycled fabric to practice sewing at home."
+    },
+    {
+      "title": "Types of Fabrics and Their Uses",
+      "content": "Different fabrics behave differently and are suitable for various types of clothing.",
+      "key_points": [
+        "Cotton: breathable and easy to sew; ideal for everyday wear.",
+        "Polyester: durable and wrinkle-resistant; good for uniforms.",
+        "Silk: smooth and delicate; used for special occasion clothes.",
+        "Denim: strong and heavy; perfect for jeans and jackets.",
+        "Chitenge and other local fabrics: colorful and culturally significant."
+      ],
+      "local_example": "Choosing the right fabric for school uniforms versus traditional wear."
+    },
+    {
+      "title": "Cutting Fabric Accurately",
+      "content": "Cutting fabric correctly ensures the garment fits well and the fabric is not wasted.",
+      "key_points": [
+        "Always cut on a flat surface with good lighting.",
+        "Use sharp fabric scissors, not regular scissors.",
+        "Follow the pattern edges closely without lifting the fabric.",
+        "Cut slowly and carefully, especially on curves and corners.",
+        "Keep fabric flat and avoid stretching while cutting."
+      ],
+      "local_example": "Cutting fabric for a child's dress using a hand-drawn pattern."
+    },
+    {
+      "title": "Sewing Machine Basics and Maintenance",
+      "content": "Knowing how to use and maintain a sewing machine will improve your sewing quality and machine lifespan.",
+      "key_points": [
+        "Learn to thread the machine and wind the bobbin properly.",
+        "Adjust stitch length and tension according to fabric type.",
+        "Practice controlling machine speed for straight and even stitches.",
+        "Clean the machine regularly to remove lint and dust.",
+        "Oil moving parts as recommended to keep the machine running smoothly."
+      ],
+      "local_example": "Maintaining an old sewing machine used in community tailoring workshops."
+    },
+    {
+      "title": "Finishing Techniques for Professional Results",
+      "content": "Finishing touches make garments look neat and durable.",
+      "key_points": [
+        "Press seams open or to one side with an iron for flat finishes.",
+        "Use hemming stitches to finish edges without fraying.",
+        "Add buttons, zippers, or hooks carefully and securely.",
+        "Use bias tape or binding to finish raw edges.",
+        "Check the garment fit and make adjustments if needed."
+      ],
+      "local_example": "Adding buttons to a school uniform shirt to prepare it for sale."
+    },
+    {
+      "title": "Basic Clothing Alterations",
+      "content": "Knowing simple alteration skills helps in fitting ready-made clothes or modifying garments.",
+      "key_points": [
+        "Take in or let out seams to adjust size.",
+        "Shorten or lengthen hems and sleeves.",
+        "Replace broken buttons and repair torn seams.",
+        "Add darts to improve garment shape.",
+        "Use pins to mark adjustments before sewing."
+      ],
+      "local_example": "Adjusting a secondhand dress to fit a smaller person."
+    },
+    {
+      "title": "Starting a Small Tailoring Business",
+      "content": "Tailoring can be a profitable business with proper planning and customer care.",
+      "key_points": [
+        "Start with simple products and build your skills gradually.",
+        "Keep your tools and workspace organized for efficiency.",
+        "Advertise your services in the community and through social media.",
+        "Maintain quality and deliver work on time to build a good reputation.",
+        "Keep track of your expenses and profits for sustainability."
+      ],
+      "local_example": "A young tailor in Lilongwe sewing and selling made-to-order school uniforms."
     }
+  ],
+  "quiz": [
+    {
+      "question": "What tool is used to measure the body accurately?",
+      "options": ["Ruler", "Phone", "Tape measure", "Spoon"],
+      "answer": "Tape measure"
+    },
+    {
+      "question": "Why is it important to use patterns in tailoring?",
+      "options": ["For decorations", "To cut fabric correctly", "For ironing", "For cooking"],
+      "answer": "To cut fabric correctly"
+    },
+    {
+      "question": "Which of these is NOT a basic sewing stitch?",
+      "options": ["Running stitch", "Backstitch", "Slip stitch", "Jump stitch"],
+      "answer": "Jump stitch"
+    },
+    {
+      "question": "What should you do before cutting fabric?",
+      "options": ["Fold fabric randomly", "Cut on a flat surface with good lighting", "Use dull scissors", "Stretch fabric while cutting"],
+      "answer": "Cut on a flat surface with good lighting"
+    },
+    {
+      "question": "Which fabric is commonly used for everyday wear because it is breathable?",
+      "options": ["Cotton", "Silk", "Denim", "Polyester"],
+      "answer": "Cotton"
+    },
+    {
+      "question": "What is the purpose of hemming a garment?",
+      "options": ["To decorate", "To finish raw edges and prevent fraying", "To make holes", "To add buttons"],
+      "answer": "To finish raw edges and prevent fraying"
+    },
+    {
+      "question": "How often should you clean and oil your sewing machine?",
+      "options": ["Once a year", "Regularly as recommended", "Never", "Only when broken"],
+      "answer": "Regularly as recommended"
+    },
+    {
+      "question": "What is a good first project for a beginner tailor?",
+      "options": ["Wedding dress", "Pillowcase", "Tailored suit", "Jacket"],
+      "answer": "Pillowcase"
+    },
+    {
+      "question": "Which alteration involves taking in or letting out seams?",
+      "options": ["Adjusting buttons", "Changing zipper", "Adjusting size", "Shortening sleeves"],
+      "answer": "Adjusting size"
+    },
+    {
+      "question": "Why is record keeping important in a tailoring business?",
+      "options": ["To remember names", "To track expenses and profits", "To decorate workspace", "To compare styles"],
+      "answer": "To track expenses and profits"
+    }
+  ]
+},
+  {
+  "title": "Basic Baking at Home",
+  "description": "Learn to bake mandasi, cakes, and bread using simple ingredients and basic techniques. This module will guide you through measuring, mixing, baking, and serving delicious homemade baked goods.",
+  "lessons": [
+    {
+      "title": "Ingredients and Tools",
+      "content": "Baking starts with gathering the right ingredients and tools. Cleanliness is very important to make safe and tasty food. Make sure to measure your ingredients carefully for the best results.",
+      "key_points": [
+        "Clean hands, bowls, utensils, and baking surfaces before starting.",
+        "Basic ingredients include flour, sugar, baking powder, yeast, eggs, salt, and oil or butter.",
+        "Common tools are mixing bowls, spoons, measuring cups, baking trays, frying pan, and oven or stove.",
+        "Use fresh ingredients for better taste and safety."
+      ],
+      "local_example": "Using locally available maize flour and sugar to bake mandasi for market sale."
+    },
+    {
+      "title": "Making Mandasi (Fritters)",
+      "content": "Mandasi is a popular fried dough snack. Mixing the right ingredients and allowing the dough to rise properly results in soft and tasty mandasi.",
+      "key_points": [
+        "Mix flour, sugar, baking powder or yeast, water, and a little oil to form dough.",
+        "Let the dough rest and rise in a warm place for 30-60 minutes.",
+        "Heat oil properly and fry the mandasi until golden brown, turning to cook evenly.",
+        "Drain fried mandasi on paper towels to remove excess oil before serving."
+      ],
+      "local_example": "Selling fresh mandasi at local church events and school functions."
+    },
+    {
+      "title": "Baking Simple Cakes",
+      "content": "Learn the basics of baking a simple cake using flour, sugar, eggs, and baking powder. This lesson covers mixing, baking, and testing for doneness.",
+      "key_points": [
+        "Preheat the oven or charcoal stove before starting to bake.",
+        "Cream sugar and eggs together before adding flour for a soft texture.",
+        "Use baking powder to help the cake rise.",
+        "Pour batter into a greased baking tin and bake for 30-45 minutes.",
+        "Test doneness by inserting a toothpick; it should come out clean."
+      ],
+      "local_example": "Baking vanilla or banana cakes to sell at local markets and events."
+    },
+    {
+      "title": "Making Homemade Bread",
+      "content": "Bread making involves mixing, kneading, rising, shaping, and baking dough. This lesson introduces these steps in simple terms.",
+      "key_points": [
+        "Use flour, water, yeast, sugar, salt, and oil for bread dough.",
+        "Knead the dough well to develop gluten which makes bread soft.",
+        "Let the dough rise twice: first after mixing and then after shaping.",
+        "Bake at a moderate temperature until the crust is golden brown.",
+        "Cool bread on a wire rack before slicing."
+      ],
+      "local_example": "Making fresh bread for breakfast or sale in the neighborhood."
+    },
+    {
+      "title": "Baking Safety and Hygiene",
+      "content": "Keeping your baking area clean and following safety rules prevents accidents and food contamination.",
+      "key_points": [
+        "Wash hands before handling food.",
+        "Keep work surfaces and tools clean.",
+        "Be careful when handling hot ovens, pans, and oil.",
+        "Store ingredients properly to avoid spoilage.",
+        "Dispose of waste safely."
+      ],
+      "local_example": "Teaching young bakers in a community group about cleanliness and safety."
+    },
+    {
+      "title": "Tips for Better Baking Results",
+      "content": "Small changes in your technique and ingredients can improve your baking outcome.",
+      "key_points": [
+        "Always measure ingredients accurately.",
+        "Use fresh yeast and baking powder for good rising.",
+        "Don’t overmix batter to avoid tough cakes.",
+        "Let baked goods cool before serving.",
+        "Experiment with flavors like vanilla, cinnamon, or local fruits."
+      ],
+      "local_example": "Adding mashed bananas to cake batter to create a popular local flavor."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which ingredient helps dough rise?",
+      "options": ["Salt", "Water", "Baking powder or yeast", "Oil"],
+      "answer": "Baking powder or yeast"
+    },
+    {
+      "question": "What should you do before baking?",
+      "options": ["Nothing", "Clean tools and measure", "Sleep", "Add random things"],
+      "answer": "Clean tools and measure"
+    },
+    {
+      "question": "Why is it important to let mandasi dough rise?",
+      "options": [
+        "To make it easier to mix",
+        "To make mandasi soft and fluffy",
+        "To change color",
+        "To save time"
+      ],
+      "answer": "To make mandasi soft and fluffy"
+    },
+    {
+      "question": "How do you check if a cake is done baking?",
+      "options": [
+        "Look for golden color only",
+        "Insert a toothpick to see if it comes out clean",
+        "Touch the top with fingers",
+        "Smell it"
+      ],
+      "answer": "Insert a toothpick to see if it comes out clean"
+    },
+    {
+      "question": "What is the purpose of kneading bread dough?",
+      "options": [
+        "To mix ingredients quickly",
+        "To develop gluten for soft bread",
+        "To add flavor",
+        "To make dough sticky"
+      ],
+      "answer": "To develop gluten for soft bread"
+    },
+    {
+      "question": "What safety rule should you follow when baking?",
+      "options": [
+        "Wash hands before baking",
+        "Touch hot pans without protection",
+        "Leave dough uncovered for days",
+        "Use spoiled ingredients"
+      ],
+      "answer": "Wash hands before baking"
+    }
+  ]
+}
   ]
 }
